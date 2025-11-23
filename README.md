@@ -1,7 +1,7 @@
 # Azure based Demand Forecasting and Capacity Optimization System
 Architecture:
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/925b2940-6764-44e9-ac4b-b165a4c25048" />
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/925b2940-6764-44e9-ac4b-b165a4c25048" />
 
 Demo Video:
 
@@ -59,7 +59,7 @@ Azure Databricks is the core data processing and ML environment in this architec
 
 This multi-layered Lakehouse approach ensures clean, high-quality, reliable input for modeling.
 
-<img width="800" height="542" alt="image" src="https://github.com/user-attachments/assets/ef219e2b-e8fe-44e7-abfb-7310815ae837" />
+<img width="600" height="442" alt="image" src="https://github.com/user-attachments/assets/ef219e2b-e8fe-44e7-abfb-7310815ae837" />
 
 **4. Machine Learning Model Training**
 
