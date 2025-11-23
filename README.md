@@ -64,7 +64,7 @@ This multi-layered Lakehouse approach ensures clean, high-quality, reliable inpu
 **4. Machine Learning Model Training**
 
 The Model Training block uses Databricks ML runtime to build multiple forecasting models:
-+ Random Forest Regressor
++ Random Forest
 + XGBoost Regressor
 + Prophet
 + ARIMA (Auto-ARIMA)
